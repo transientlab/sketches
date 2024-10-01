@@ -1,0 +1,11 @@
+[package]
+name = "hellocargo"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+ipnetwork = "0.18.0"
+tokio = { version = "1", features = ["full"] }
+get_if_addrs = "0.5"
+ping = "0.4.0"
+plotters="0.3"

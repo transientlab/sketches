@@ -1,0 +1,21 @@
+[Unit]
+Description={ DESCRIPTION }
+After=network.target
+StartLimitIntervalSec=1
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+
+User={ USER }
+Group=root
+
+WorkingDirectory=/home/{ USER }
+Environment="PATH=/home/{ USER }/bin"
+
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStart=/bin/bash -c ' { COMMANDS } && { COMMANDS }'
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,19 @@
+temperature.jpg                                             /Users/kr315/Desktop/_transientlab/fem/elmer/tutorials-CL-files/TemperatureAngle                    
+krzeslem.jpg                                                /Users/kr315/Desktop/_transientlab/graphics                                                         
+nowyzloty.jpg                                               /Users/kr315/Desktop/_transientlab/blender/assets                                                   
+Bricks059_2K_Roughness.jpg                                  /Users/kr315/Desktop/_transientlab/blender/assets/materials/bricks_e8f85678-e4e0-4aca-a177-b98ef181f0ba/textures
+Bricks059_2K_Color.jpg                                      /Users/kr315/Desktop/_transientlab/blender/assets/materials/bricks_e8f85678-e4e0-4aca-a177-b98ef181f0ba/textures
+Bricks059_2K_Normal.jpg                                     /Users/kr315/Desktop/_transientlab/blender/assets/materials/bricks_e8f85678-e4e0-4aca-a177-b98ef181f0ba/textures
+floor-natural-oak-Parquet_Displacement.jpg                  /Users/kr315/Desktop/_transientlab/blender/assets/materials/floor-natural-oa_75384d92-1138-4c8e-b8b2-17722b83ecd5/textures_2k
+Untitled material_AmbientOcclusion.jpg                      /Users/kr315/Desktop/_transientlab/blender/assets/materials/floor-natural-oa_75384d92-1138-4c8e-b8b2-17722b83ecd5/textures_2k
+floor-natural-oak-Parquet_BaseColor.jpg                     /Users/kr315/Desktop/_transientlab/blender/assets/materials/floor-natural-oa_75384d92-1138-4c8e-b8b2-17722b83ecd5/textures_2k
+floor-natural-oak-Parquet_Roughness.jpg                     /Users/kr315/Desktop/_transientlab/blender/assets/materials/floor-natural-oa_75384d92-1138-4c8e-b8b2-17722b83ecd5/textures_2k
+SpecularMap.jpg                                             /Users/kr315/Desktop/_transientlab/blender/assets/materials/mdf_antiqua_-_gu_714f222d-af42-46fb-b505-779ef20e67cc/textures_2k
+DisplacementMap.jpg                                         /Users/kr315/Desktop/_transientlab/blender/assets/materials/mdf_antiqua_-_gu_714f222d-af42-46fb-b505-779ef20e67cc/textures_2k
+NormalMap.jpg                                               /Users/kr315/Desktop/_transientlab/blender/assets/materials/mdf_antiqua_-_gu_714f222d-af42-46fb-b505-779ef20e67cc/textures_2k
+antiqua_linha_naturale_guararapes2-Diffuse.jpg              /Users/kr315/Desktop/_transientlab/blender/assets/materials/mdf_antiqua_-_gu_714f222d-af42-46fb-b505-779ef20e67cc/textures_2k
+woodparquet_67_BaseColor-2K.jpg                             /Users/kr315/Desktop/_transientlab/blender/assets/materials/wood_parquet_c25c2e7e-739c-46a1-adf6-b05494b3d65c/textures_2k
+woodparquet_67_Normal-2K.jpg                                /Users/kr315/Desktop/_transientlab/blender/assets/materials/wood_parquet_c25c2e7e-739c-46a1-adf6-b05494b3d65c/textures_2k
+woodparquet_67_Height-2K.jpg                                /Users/kr315/Desktop/_transientlab/blender/assets/materials/wood_parquet_c25c2e7e-739c-46a1-adf6-b05494b3d65c/textures_2k
+TeethTongueSet_C_2K.jpg                                     /Users/kr315/Desktop/_transientlab/blender/assets/models/woman_01_fe272f82-52c4-4192-aec4-e5143be15e68/textures_2k
+TeethTongueSet_ROUGH_2K.jpg                                 /Users/kr315/Desktop/_transientlab/blender/assets/models/woman_01_fe272f82-52c4-4192-aec4-e5143be15e68/textures_2k
